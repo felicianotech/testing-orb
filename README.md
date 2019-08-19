@@ -2,3 +2,5 @@
 
 This orb is for my personal testing.
 Not to be used by anyone else.
+
+[reg-page]: https://circleci.com/orbs/registry/orb/felicianotech/testing
