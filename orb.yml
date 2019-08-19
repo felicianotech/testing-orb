@@ -18,9 +18,3 @@ commands:
           name: "Say Bye"
           command: |
             echo "Hi"
-  say-boo:
-    steps:
-      - run:
-          name: "Say Boo"
-          command: |
-            echo "Booooooooooooooooooooooo"
